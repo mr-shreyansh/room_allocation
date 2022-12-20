@@ -1,0 +1,78 @@
+.hall {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(128, 128, 128, 0.1);
+    border-radius: 2vh;
+    margin: 10px 1px;
+    box-shadow: 1px 1px 5px black;
+}
+
+
+:is(.hall) h1 {
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+    letter-spacing: 1px;
+
+}
+
+.block_name{
+    font-size: 2vw !important;
+    color: rgba(226, 14, 14, 0.756);
+}
+
+.card {
+    border: 1px solid goldenrod;
+    margin: 1vh;
+    text-align: center;
+    color: rgb(63, 63, 63);
+    font-weight: 500;
+    cursor: pointer;
+    box-shadow: 1px 1px 5px rgba(218, 165, 32, 0.304);
+    transition: 400ms all ease;
+}
+
+.card:hover,
+.card:active,
+.card:focus {
+    background-color: goldenrod;
+    color: rgb(255, 255, 255);
+    transform: scale(1.04);
+}
+
+
+.ground {
+    background-color: rgba(128, 128, 128, 0.1);
+}
+
+.first {}
+
+.top {
+    background-color: rgba(128, 128, 128, 0.1);
+}
+
+
+.modalWrapper{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgb(69, 69, 69);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px;
+    z-index: 999;
+}
+
+.modal{
+ 
+ background-color: white;
+}

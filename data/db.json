@@ -1,0 +1,506 @@
+{
+    "A-Block": [
+        {
+            "room": "A-101",
+            "boarder": "Shreyansh",
+            "id":101
+        },
+        {
+            "room": "A-102",
+            "boarder": "Sagnik",
+            "id":102
+        },
+        {
+            "room": "A-103",
+            "boarder": "Himanshu",
+            "id":103
+        },
+        {
+            "room": "A-104",
+            "boarder": "Priyanshu",
+            "id":104
+        },
+        {
+            "room": "A-105",
+            "boarder": "Purna",
+            "id":105
+        },
+        {
+            "room": "A-106",
+            "boarder": "Vivek",
+            "id":106
+        },
+        {
+            "room": "A-107",
+            "boarder": "Ashutosh",
+            "id":107
+        },
+        {
+            "room": "A-108",
+            "boarder": "Advait",
+            "id":108
+        },
+        {
+            "room": "A-109",
+            "boarder": "Akshat",
+            "id":109
+        },
+        {
+            "room": "A-201",
+            "boarder": "Shreyansh",
+            "id":201
+        },
+        {
+            "room": "A-202",
+            "boarder": "Sagnik",
+            "id":202
+        },
+        {
+            "room": "A-203",
+            "boarder": "Himanshu",
+            
+            "boarder2":"Sagnik",
+
+            "boarder3":"Shreyansh",
+            "id":203
+        },
+        {
+            "room": "A-204",
+            "boarder": "Priyanshu",
+            "id":204
+        },
+        {
+            "room": "A-205",
+            "boarder": "Purna",
+            "id":205
+        },
+        {
+            "room": "A-206",
+            "boarder": "Vivek",
+            "id":206
+        },
+        {
+            "room": "A-207",
+            "boarder": "Ashutosh",
+            "id":207
+        },
+        {
+            "room": "A-208",
+            "boarder": "Advait",
+            "id":208
+        },
+        {
+            "room": "A-302",
+            "boarder": "Sagnik",
+            "id":302
+        },
+        {
+            "room": "A-303",
+            "boarder": "Himanshu",
+            "id":303
+        },
+        {
+            "room": "A-304",
+            "boarder": "Priyanshu",
+            "id":304
+        },
+        {
+            "room": "A-305",
+            "boarder": "Purna",
+            "id":305
+        },
+        {
+            "room": "A-306",
+            "boarder": "Vivek",
+            "id":306
+        },
+        {
+            "room": "A-307",
+            "boarder": "Ashutosh",
+            "id":307
+        },
+        {
+            "room": "A-308",
+            "boarder": "Advait",
+            "id":308
+        }
+    ],
+    "B-Block": [
+        {
+            "room": "B-101",
+            "boarder": "Shreyansh",
+            "id":101
+        },
+        {
+            "room": "B-102",
+            "boarder": "Sagnik",
+            "id":102
+        },
+        {
+            "room": "B-103",
+            "boarder": "Himanshu",
+            "id":103
+        },
+        {
+            "room": "B-104",
+            "boarder": "Priyanshu",
+            "id":104
+        },
+        {
+            "room": "B-105",
+            "boarder": "Purna",
+            "id":105
+        },
+        {
+            "room": "B-106",
+            "boarder": "Vivek",
+            "id":106
+        },
+        {
+            "room": "B-107",
+            "boarder": "Ashutosh",
+            "id":107
+        },
+        {
+            "room": "B-108",
+            "boarder": "Advait",
+            "id":108
+        },
+        {
+            "room": "B-109",
+            "boarder": "Akshat",
+            "id":109
+        },
+        {
+            "room": "A-201",
+            "boarder": "Shreyansh",
+            "id":201
+        },
+        {
+            "room": "B-202",
+            "boarder": "Sagnik",
+            "id":202
+        },
+        {
+            "room": "B-203",
+            "boarder": "Himanshu",
+            
+            "boarder2":"Sagnik",
+
+            "boarder3":"Shreyansh",
+            "id":203
+        },
+        {
+            "room": "B-204",
+            "boarder": "Priyanshu",
+            "id":204
+        },
+        {
+            "room": "B-205",
+            "boarder": "Purna",
+            "id":205
+        },
+        {
+            "room": "B-206",
+            "boarder": "Vivek",
+            "id":206
+        },
+        {
+            "room": "B-207",
+            "boarder": "Ashutosh",
+            "id":207
+        },
+        {
+            "room": "B-208",
+            "boarder": "Advait",
+            "id":208
+        },
+        {
+            "room": "A-302",
+            "boarder": "Sagnik",
+            "id":302
+        },
+        {
+            "room": "B-303",
+            "boarder": "Himanshu",
+            "id":303
+        },
+        {
+            "room": "B-304",
+            "boarder": "Priyanshu",
+            "id":304
+        },
+        {
+            "room": "B-305",
+            "boarder": "Purna",
+            "id":305
+        },
+        {
+            "room": "B-306",
+            "boarder": "Vivek",
+            "id":306
+        },
+        {
+            "room": "B-307",
+            "boarder": "Ashutosh",
+            "id":307
+        },
+        {
+            "room": "B-308",
+            "boarder": "Advait",
+            "id":308
+        }
+    ],
+    "C-Block": [
+        {
+            "room": "B-101",
+            "boarder": "Shreyansh",
+            "id":101
+        },
+        {
+            "room": "B-102",
+            "boarder": "Sagnik",
+            "id":102
+        },
+        {
+            "room": "B-103",
+            "boarder": "Himanshu",
+            "id":103
+        },
+        {
+            "room": "B-104",
+            "boarder": "Priyanshu",
+            "id":104
+        },
+        {
+            "room": "B-105",
+            "boarder": "Purna",
+            "id":105
+        },
+        {
+            "room": "B-106",
+            "boarder": "Vivek",
+            "id":106
+        },
+        {
+            "room": "B-107",
+            "boarder": "Ashutosh",
+            "id":107
+        },
+        {
+            "room": "B-108",
+            "boarder": "Advait",
+            "id":108
+        },
+        {
+            "room": "B-109",
+            "boarder": "Akshat",
+            "id":109
+        },
+        {
+            "room": "A-201",
+            "boarder": "Shreyansh",
+            "id":201
+        },
+        {
+            "room": "B-202",
+            "boarder": "Sagnik",
+            "id":202
+        },
+        {
+            "room": "B-203",
+            "boarder": "Himanshu",
+            
+            "boarder2":"Sagnik",
+
+            "boarder3":"Shreyansh",
+            "id":203
+        },
+        {
+            "room": "B-204",
+            "boarder": "Priyanshu",
+            "id":204
+        },
+        {
+            "room": "B-205",
+            "boarder": "Purna",
+            "id":205
+        },
+        {
+            "room": "B-206",
+            "boarder": "Vivek",
+            "id":206
+        },
+        {
+            "room": "B-207",
+            "boarder": "Ashutosh",
+            "id":207
+        },
+        {
+            "room": "B-208",
+            "boarder": "Advait",
+            "id":208
+        },
+        {
+            "room": "A-302",
+            "boarder": "Sagnik",
+            "id":302
+        },
+        {
+            "room": "B-303",
+            "boarder": "Himanshu",
+            "id":303
+        },
+        {
+            "room": "B-304",
+            "boarder": "Priyanshu",
+            "id":304
+        },
+        {
+            "room": "B-305",
+            "boarder": "Purna",
+            "id":305
+        },
+        {
+            "room": "B-306",
+            "boarder": "Vivek",
+            "id":306
+        },
+        {
+            "room": "B-307",
+            "boarder": "Ashutosh",
+            "id":307
+        },
+        {
+            "room": "B-308",
+            "boarder": "Advait",
+            "id":308
+        }
+    ],
+    "D-Block": [
+        {
+            "room": "B-101",
+            "boarder": "Shreyansh",
+            "id":101
+        },
+        {
+            "room": "B-102",
+            "boarder": "Sagnik",
+            "id":102
+        },
+        {
+            "room": "B-103",
+            "boarder": "Himanshu",
+            "id":103
+        },
+        {
+            "room": "B-104",
+            "boarder": "Priyanshu",
+            "id":104
+        },
+        {
+            "room": "B-105",
+            "boarder": "Purna",
+            "id":105
+        },
+        {
+            "room": "B-106",
+            "boarder": "Vivek",
+            "id":106
+        },
+        {
+            "room": "B-107",
+            "boarder": "Ashutosh",
+            "id":107
+        },
+        {
+            "room": "B-108",
+            "boarder": "Advait",
+            "id":108
+        },
+        {
+            "room": "B-109",
+            "boarder": "Akshat",
+            "id":109
+        },
+        {
+            "room": "A-201",
+            "boarder": "Shreyansh",
+            "id":201
+        },
+        {
+            "room": "B-202",
+            "boarder": "Sagnik",
+            "id":202
+        },
+        {
+            "room": "B-203",
+            "boarder": "Himanshu",
+            
+            "boarder2":"Sagnik",
+
+            "boarder3":"Shreyansh",
+            "id":203
+        },
+        {
+            "room": "B-204",
+            "boarder": "Priyanshu",
+            "id":204
+        },
+        {
+            "room": "B-205",
+            "boarder": "Purna",
+            "id":205
+        },
+        {
+            "room": "B-206",
+            "boarder": "Vivek",
+            "id":206
+        },
+        {
+            "room": "B-207",
+            "boarder": "Ashutosh",
+            "id":207
+        },
+        {
+            "room": "B-208",
+            "boarder": "Advait",
+            "id":208
+        },
+        {
+            "room": "A-302",
+            "boarder": "Sagnik",
+            "id":302
+        },
+        {
+            "room": "B-303",
+            "boarder": "Himanshu",
+            "id":303
+        },
+        {
+            "room": "B-304",
+            "boarder": "Priyanshu",
+            "id":304
+        },
+        {
+            "room": "B-305",
+            "boarder": "Purna",
+            "id":305
+        },
+        {
+            "room": "B-306",
+            "boarder": "Vivek",
+            "id":306
+        },
+        {
+            "room": "B-307",
+            "boarder": "Ashutosh",
+            "id":307
+        },
+        {
+            "room": "B-308",
+            "boarder": "Advait",
+            "id":308
+        }
+    ]
+}
