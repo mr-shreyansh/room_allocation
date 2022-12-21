@@ -27,10 +27,12 @@ const Room = ({ rooms }) => {
                         <div className={style.card} >
                             <p key={room.id} onClick={() => handle(room.id, true)}>{room.room}</p>
                             {/* <Popup room={room} show={show} check={handle} /> */}
+                            
                             <Modal open={true ? room.id == show : false} onClose={() => setShow(false)}>
-                                <Box position="absolute" top="50%" left="50%" color="textSecondary" className={style.modal_box}>
+                            
+                                <Box position="absolute" color="textSecondary" className={style.modal_box}>
                                     <h1 className={style.modal_title}>{room.room}</h1>
-                                    <Grid container spacing={2} className={style.modal_grid}>
+                                    <Grid container spacing={1} className={style.modal_grid}>
                                         {room.boarder.map((student)=>(
                                             <Grid item className={style.modal_card}>
                                                 <p className={style.boarder}>{student.boarder1}</p>
@@ -39,10 +41,12 @@ const Room = ({ rooms }) => {
                                             </Grid>
                                         ))}
                                     </Grid>
-                                    <Button varient="contained" color='error' onClick={() => setShow(false)}>click me</Button>
+                                    <Button className={style.closebutton} varient="contained" color='error' onClick={() => setShow(false)}>close</Button>
                                 </Box>
+                                
 
                             </Modal>
+                            
 
                         </div>
                     </Grid>
