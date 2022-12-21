@@ -4,24 +4,22 @@ import { Modal, Typography } from '@mui/material';
 import { Box } from '@mui/system';
 
 
- const Popup = ({ room, show }) => {
+ const Popup = ({ room, show,check }) => {
 
     if (show != room.id) {
         return null;
     }
-
-    const closer= ()=>{
-        
-    }
-
+    
+    
     return (
       
         <div className={style.modal}>
+            <Modal open={true}>it worked</Modal>
                 <h1>{room.id}</h1>
                 <h2>{room.boarder}</h2>
                 <h2>{room.boarder3}</h2>
                 <h2>{room.boarder2}</h2>
-                <button onClick={closer}>close</button>
+                <button onClick={check(room.id,false)}>close</button>
             </div>
         
     );

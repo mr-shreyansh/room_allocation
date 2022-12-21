@@ -2,504 +2,2395 @@
     "A-Block": [
         {
             "room": "A-101",
-            "boarder": "Shreyansh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                }
+            ],
             "id":101
         },
         {
             "room": "A-102",
-            "boarder": "Sagnik",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                }
+            ],
             "id":102
         },
         {
             "room": "A-103",
-            "boarder": "Himanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                }
+            ],
             "id":103
         },
         {
             "room": "A-104",
-            "boarder": "Priyanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                }
+            ],
             "id":104
         },
         {
             "room": "A-105",
-            "boarder": "Purna",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                }
+            ],
             "id":105
         },
         {
             "room": "A-106",
-            "boarder": "Vivek",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                }
+            ],
             "id":106
         },
         {
             "room": "A-107",
-            "boarder": "Ashutosh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                }
+            ],
             "id":107
         },
         {
             "room": "A-108",
-            "boarder": "Advait",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                }
+            ],
             "id":108
         },
         {
             "room": "A-109",
-            "boarder": "Akshat",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                }
+            ],
             "id":109
         },
         {
             "room": "A-201",
-            "boarder": "Shreyansh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":201
         },
         {
             "room": "A-202",
-            "boarder": "Sagnik",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":202
         },
         {
             "room": "A-203",
-            "boarder": "Himanshu",
-            
-            "boarder2":"Sagnik",
-
-            "boarder3":"Shreyansh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                },
+                {
+                    "boarder1": "Priyanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21EC30028",
+                    "id": 3
+                    
+                }
+            ],
             "id":203
         },
         {
             "room": "A-204",
-            "boarder": "Priyanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":204
         },
         {
             "room": "A-205",
-            "boarder": "Purna",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":205
         },
         {
             "room": "A-206",
-            "boarder": "Vivek",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":206
         },
         {
             "room": "A-207",
-            "boarder": "Ashutosh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":207
         },
         {
             "room": "A-208",
-            "boarder": "Advait",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":208
         },
         {
             "room": "A-302",
-            "boarder": "Sagnik",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":302
         },
         {
             "room": "A-303",
-            "boarder": "Himanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":303
         },
         {
             "room": "A-304",
-            "boarder": "Priyanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":304
         },
         {
             "room": "A-305",
-            "boarder": "Purna",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":305
         },
         {
             "room": "A-306",
-            "boarder": "Vivek",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":306
         },
         {
             "room": "A-307",
-            "boarder": "Ashutosh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":307
         },
         {
             "room": "A-308",
-            "boarder": "Advait",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":308
         }
     ],
     "B-Block": [
         {
             "room": "B-101",
-            "boarder": "Shreyansh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Rollno": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Rollno": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":101
         },
         {
             "room": "B-102",
-            "boarder": "Sagnik",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Rollno": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":102
         },
         {
             "room": "B-103",
-            "boarder": "Himanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":103
         },
         {
             "room": "B-104",
-            "boarder": "Priyanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":104
         },
         {
             "room": "B-105",
-            "boarder": "Purna",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":105
         },
         {
             "room": "B-106",
-            "boarder": "Vivek",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":106
         },
         {
             "room": "B-107",
-            "boarder": "Ashutosh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":107
         },
         {
             "room": "B-108",
-            "boarder": "Advait",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":108
         },
         {
             "room": "B-109",
-            "boarder": "Akshat",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":109
         },
         {
             "room": "A-201",
-            "boarder": "Shreyansh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":201
         },
         {
             "room": "B-202",
-            "boarder": "Sagnik",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":202
         },
         {
             "room": "B-203",
-            "boarder": "Himanshu",
-            
-            "boarder2":"Sagnik",
-
-            "boarder3":"Shreyansh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":203
         },
         {
             "room": "B-204",
-            "boarder": "Priyanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":204
         },
         {
             "room": "B-205",
-            "boarder": "Purna",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":205
         },
         {
             "room": "B-206",
-            "boarder": "Vivek",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":206
         },
         {
             "room": "B-207",
-            "boarder": "Ashutosh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":207
         },
         {
             "room": "B-208",
-            "boarder": "Advait",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":208
         },
         {
             "room": "A-302",
-            "boarder": "Sagnik",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":302
         },
         {
             "room": "B-303",
-            "boarder": "Himanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":303
         },
         {
             "room": "B-304",
-            "boarder": "Priyanshu",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":304
         },
         {
             "room": "B-305",
-            "boarder": "Purna",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":305
         },
         {
             "room": "B-306",
-            "boarder": "Vivek",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":306
         },
         {
             "room": "B-307",
-            "boarder": "Ashutosh",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":307
         },
         {
             "room": "B-308",
-            "boarder": "Advait",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":308
         }
     ],
     "C-Block": [
         {
-            "room": "B-101",
-            "boarder": "Shreyansh",
+            "room": "C-101",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":101
         },
         {
-            "room": "B-102",
-            "boarder": "Sagnik",
+            "room": "C-102",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":102
         },
         {
-            "room": "B-103",
-            "boarder": "Himanshu",
+            "room": "C-103",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":103
         },
         {
-            "room": "B-104",
-            "boarder": "Priyanshu",
+            "room": "C-104",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":104
         },
         {
-            "room": "B-105",
-            "boarder": "Purna",
+            "room": "C-105",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":105
         },
         {
-            "room": "B-106",
-            "boarder": "Vivek",
+            "room": "C-106",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
+    
             "id":106
         },
         {
-            "room": "B-107",
-            "boarder": "Ashutosh",
+            "room": "C-107",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":107
         },
         {
-            "room": "B-108",
-            "boarder": "Advait",
+            "room": "C-108",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":108
         },
         {
-            "room": "B-109",
-            "boarder": "Akshat",
+            "room": "C-109",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":109
         },
         {
-            "room": "A-201",
-            "boarder": "Shreyansh",
+            "room": "C-201",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":201
         },
         {
-            "room": "B-202",
-            "boarder": "Sagnik",
+            "room": "C-202",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":202
         },
         {
-            "room": "B-203",
-            "boarder": "Himanshu",
-            
-            "boarder2":"Sagnik",
-
-            "boarder3":"Shreyansh",
+            "room": "C-203",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":203
         },
         {
-            "room": "B-204",
-            "boarder": "Priyanshu",
+            "room": "C-204",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":204
         },
         {
-            "room": "B-205",
-            "boarder": "Purna",
+            "room": "C-205",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":205
         },
         {
-            "room": "B-206",
-            "boarder": "Vivek",
+            "room": "C-206",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":206
         },
         {
-            "room": "B-207",
-            "boarder": "Ashutosh",
+            "room": "C-207",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":207
         },
         {
-            "room": "B-208",
-            "boarder": "Advait",
+            "room": "C-208",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":208
         },
         {
-            "room": "A-302",
-            "boarder": "Sagnik",
+            "room": "C-302",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":302
         },
         {
-            "room": "B-303",
-            "boarder": "Himanshu",
+            "room": "C-303",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":303
         },
         {
-            "room": "B-304",
-            "boarder": "Priyanshu",
+            "room": "C-304",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":304
         },
         {
-            "room": "B-305",
-            "boarder": "Purna",
+            "room": "C-305",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":305
         },
         {
-            "room": "B-306",
-            "boarder": "Vivek",
+            "room": "C-306",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":306
         },
         {
-            "room": "B-307",
-            "boarder": "Ashutosh",
+            "room": "C-307",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":307
         },
         {
-            "room": "B-308",
-            "boarder": "Advait",
+            "room": "C-308",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":308
         }
     ],
     "D-Block": [
         {
-            "room": "B-101",
-            "boarder": "Shreyansh",
+            "room": "D-101",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":101
         },
         {
-            "room": "B-102",
-            "boarder": "Sagnik",
+            "room": "D-102",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":102
         },
         {
-            "room": "B-103",
-            "boarder": "Himanshu",
+            "room": "D-103",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":103
         },
         {
-            "room": "B-104",
-            "boarder": "Priyanshu",
+            "room": "D-104",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":104
         },
         {
-            "room": "B-105",
-            "boarder": "Purna",
+            "room": "D-105",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":105
         },
         {
-            "room": "B-106",
-            "boarder": "Vivek",
+            "room": "D-106",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":106
         },
         {
-            "room": "B-107",
-            "boarder": "Ashutosh",
+            "room": "D-107",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":107
         },
         {
-            "room": "B-108",
-            "boarder": "Advait",
+            "room": "D-108",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":108
         },
         {
-            "room": "B-109",
-            "boarder": "Akshat",
+            "room": "D-109",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":109
         },
         {
-            "room": "A-201",
-            "boarder": "Shreyansh",
+            "room": "D-201",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":201
         },
         {
-            "room": "B-202",
-            "boarder": "Sagnik",
+            "room": "D-202",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":202
         },
         {
-            "room": "B-203",
-            "boarder": "Himanshu",
-            
-            "boarder2":"Sagnik",
-
-            "boarder3":"Shreyansh",
+            "room": "D-203",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":203
         },
         {
-            "room": "B-204",
-            "boarder": "Priyanshu",
+            "room": "D-204",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":204
         },
         {
-            "room": "B-205",
-            "boarder": "Purna",
+            "room": "D-205",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":205
         },
         {
-            "room": "B-206",
-            "boarder": "Vivek",
+            "room": "D-206",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":206
         },
         {
-            "room": "B-207",
-            "boarder": "Ashutosh",
+            "room": "D-207",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":207
         },
         {
-            "room": "B-208",
-            "boarder": "Advait",
+            "room": "D-208",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":208
         },
         {
-            "room": "A-302",
-            "boarder": "Sagnik",
+            "room": "D-302",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":302
         },
         {
-            "room": "B-303",
-            "boarder": "Himanshu",
+            "room": "D-303",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":303
         },
         {
-            "room": "B-304",
-            "boarder": "Priyanshu",
+            "room": "D-109",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":304
         },
         {
-            "room": "B-305",
-            "boarder": "Purna",
+            "room": "D-305",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":305
         },
         {
-            "room": "B-306",
-            "boarder": "Vivek",
+            "room": "D-306",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":306
         },
         {
-            "room": "B-307",
-            "boarder": "Ashutosh",
+            "room": "D-307",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":307
         },
         {
-            "room": "B-308",
-            "boarder": "Advait",
+            "room": "D-308",
+            "boarder": [
+                {
+                    "boarder1": "Sagnik",
+                    "department": "Meta",
+                    "Roll no.:": "21MT10037",
+                    "id": 1
+                    
+                },
+                {
+                    "boarder1": "Shreyansh",
+                    "department": "Electronics And Electrical Communication Engineering",
+                    "Roll no.:": "21EC10026",
+                    "id": 2
+                },
+                {
+                    "boarder1": "Himanshu",
+                    "department": "Chemistry",
+                    "Roll no.:": "21CY10015",
+                    "id": 3
+                    
+                }
+            ],
             "id":308
         }
     ]

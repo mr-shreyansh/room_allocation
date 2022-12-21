@@ -1,7 +1,6 @@
 .hall {
     display: flex;
     flex-direction: column;
-
 }
 
 .block {
@@ -10,7 +9,7 @@
     border: 1px solid rgba(128, 128, 128, 0.1);
     border-radius: 2vh;
     margin: 10px 1px;
-    box-shadow: 1px 1px 5px black;
+    box-shadow: 1px 0.5px 5px black;
 }
 
 
@@ -49,30 +48,59 @@
 
 .ground {
     background-color: rgba(128, 128, 128, 0.1);
+    position: relative;
 }
 
-.first {}
+.first {
+    position: relative;
+}
 
 .top {
     background-color: rgba(128, 128, 128, 0.1);
+    position: relative;
 }
 
-
-.modalWrapper{
+.modal_box{
     position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: rgb(69, 69, 69);
+    top: 10vh;
+    
+    left: 10vw;
+    
+    background-image: radial-gradient(circle, #e8b64a, #e9bf67, #e9c983, #e9d19e, #e9dab9);    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 1vh;
+
+}
+
+.modal_title{
+    text-align: center;
+    font-weight: 600;
+    color: rgb(242, 78, 78);
+}
+
+.modal_grid{
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 5px;
-    z-index: 999;
 }
 
-.modal{
- 
- background-color: white;
+.modal_card{
+    margin: 12px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 2vh;
+    box-sizing: border-box;
+    min-width: 200px;
+/* From https://css.glass */
+background: rgba(248, 217, 187, 0.27);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(14.2px);
+-webkit-backdrop-filter: blur(14.2px);
+border: 1px solid rgba(248, 217, 187, 0.25);}
+
+.modal_card h2{
+    margin: 3px;
+    padding: 3px;
 }
